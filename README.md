@@ -13,7 +13,7 @@ Facial Analytics API: [Face-API](https://github.com/justadudewhohacks/face-api.j
 5. Open CMD, type "npm --version" to check Node Package Manager (NPM) also have been installed.
 
 ### Step 1: Download the source code
-1. If you have "git" installed, open CMD and type "git clone 
+1. If you have "git" installed, open CMD and type "git clone https://github.com/Zidny000/Smart-Attendance.git"
 
 ### Step 2: Install the dependency
 1. Open project in Visual Studio Code or any IDE.
